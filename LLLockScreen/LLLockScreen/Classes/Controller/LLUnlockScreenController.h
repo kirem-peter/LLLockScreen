@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  LLUnlockScreenController.h
 //  LL----锁屏
 //
 //  Created by liushaohua on 16/9/1.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface LLUnlockScreenController : UIViewController
 
 @end
-
